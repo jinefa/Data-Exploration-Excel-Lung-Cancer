@@ -1,4 +1,4 @@
-# Data Exploration Project in Excel with a Lung Cancer Data Set 
+# Data Exploration Project Lung Cancer in Excel
 
 #### Project Overview
 
