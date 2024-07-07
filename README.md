@@ -5,7 +5,7 @@
 This project presents a comprehensive exploratory data analysis of a dataset detailing lung cancer mortality rates among patients aged 15 to 101 from various countries. 
 The analysis considers cancer stages, treatment plans, and pre-existing health conditions. The primary research question addressed is: 
 
-**What patterns in the data are strongly associated with lung cancer survival?**
+*What patterns in the data are strongly associated with lung cancer survival?*
 
 #### Data Exploration Steps:
 
